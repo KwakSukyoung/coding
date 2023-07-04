@@ -1,0 +1,69 @@
+12/02/21 13:04
+
+data_visualization.ipynb has not been modified yet
+
+-------------------------------------------------------------------------------
+
+12/06/21 09:57
+
+Problem 1 (5 points):
+Nothing displayed in plots
+Score += 0
+
+Problem 2 (5 points):
+Problem 2 incomplete
+Score += 0
+
+Problem 3 (5 points):
+Problem 3 incomplete
+Score += 0
+
+Problem 4 (10 points):
+Problem 4 incomplete
+Score += 0
+
+Problem 5 (10 points):
+Problem 5 incomplete
+Score += 0
+
+Problem 6 (10 points):
+Problem 6 incomplete
+Score += 0
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 5/50 = 10.0%
+
+-------------------------------------------------------------------------------
+
+12/07/21 12:35
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+The plot of the population of each country seems to be missing most of the data
+Score += 8
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 48/50 = 96.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

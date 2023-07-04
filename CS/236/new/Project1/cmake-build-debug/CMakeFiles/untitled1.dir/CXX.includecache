@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/users/guest/s/sk437/tmp/tmp.lucoJRICYt/Scanner.h
+string
+-
+Token.h
+/users/guest/s/sk437/tmp/tmp.lucoJRICYt/Token.h
+cctype
+-
+iostream
+-
+
+/users/guest/s/sk437/tmp/tmp.lucoJRICYt/Token.h
+string
+-
+sstream
+-
+
+/users/guest/s/sk437/tmp/tmp.lucoJRICYt/main.cpp
+iostream
+-
+Token.h
+/users/guest/s/sk437/tmp/tmp.lucoJRICYt/Token.h
+Scanner.h
+/users/guest/s/sk437/tmp/tmp.lucoJRICYt/Scanner.h
+string
+-
+fstream
+-
+

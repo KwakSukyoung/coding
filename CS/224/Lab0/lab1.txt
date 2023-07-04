@@ -1,0 +1,40 @@
+1. What is the path to your home directory on a lab machine?
+- /users/guest/s/sk437
+2. What is the full path to your new directory?
+- /users/guest/s/sk437/cs224
+3. How many subdirectories are in the f1 directory?
+- 0
+4. How many files are in the f1 directory? What are their names?
+- 7, Bashful.txt  Doc.txt  Dopey.txt  Grumpy.txt  Happy.txt	Sleepy.txt  Sneezy.txt
+5. Ho/users/guest/s/sk437/cs224/Lab1/f2
+w many subdirectories are in the f2 directory (counting all subdirectories of subdirectories etc. as well)? What are their names?
+- 5, bears,hourse - beds, bowls, chairs
+6. How many files are in the f2 directory (and its sub(sub)directories? Give the name and full path to each one.
+- /users/guest/s/sk437/cs224/Lab1/f2/Goldilocks.txt
+  /users/guest/s/sk437/cs224/Lab1/f2/bears/BabyBear.txt
+  /users/guest/s/sk437/cs224/Lab1/f2/bears/MamaBear.txt
+  /users/guest/s/sk437/cs224/Lab1/f2/bears/PapBear.txt
+  /users/guest/s/sk437/cs224/Lab1/f2/house/beds/TooHard.txt
+  /users/guest/s/sk437/cs224/Lab1/f2/house/beds/TooSoft.txt
+  /users/guest/s/sk437/cs224/Lab1/f2/house/beds/JustRight.txt
+  /users/guest/s/sk437/cs224/Lab1/f2/house/bowls/TooHot.txt
+  /users/guest/s/sk437/cs224/Lab1/f2/house/bowls/TooCold.txt  
+  /users/guest/s/sk437/cs224/Lab1/f2/house/bowls/JustRight.txt  
+  /users/guest/s/sk437/cs224/Lab1/f2/house/chairs/TooHard.txt
+  /users/guest/s/sk437/cs224/Lab1/f2/house/chairs/TooSoft.txt
+  /users/guest/s/sk437/cs224/Lab1/f2/house/chairs/JustRight.txt
+
+  Thus, we have total, 13 files in f2
+7. Give the single command you would use to copy Goldilocks.txt into the beds directory, assuming you are in the f2 directory.
+- cp Goldilocks.txt ./house/beds
+8. Give the single command you would use to delete the JustRight.txt file from the chairs subdirectory (since Goldilocks broke it), assuming you are in the f2 directory.
+- rm ./house/chairs/JustRight.txt
+9.Our hero Theseus is looking for the Minotaur monster somewhere in the f3 directory's maze of subdirectories. Find the file Minotaur.txt and give the single mv command that would move the Theseus.txt file into the same directory as Minotaur.txt so that Theseus can save the day. (assume that you are in the f3 directory when the command is typed.)
+- mv Theseus.txt ./Right/Right/Left
+10. What is the full path to the directory where Theseus and the Minotaur now are?
+- /users/guest/s/sk437/cs224/Lab1/f3/Right/Right/Left
+11. What is the result that is now output by the a.out program?
+- My name is Rebecah Kwak
+  The first number is 270
+  The second number is 289
+  The result is 224

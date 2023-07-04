@@ -1,0 +1,3 @@
+/users/guest/s/sk437/tmp/tmp.s9ZTsR0Yp4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/users/guest/s/sk437/tmp/tmp.s9ZTsR0Yp4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/users/guest/s/sk437/tmp/tmp.s9ZTsR0Yp4/cmake-build-debug/CMakeFiles/Lab2.dir
