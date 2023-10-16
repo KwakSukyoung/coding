@@ -1,0 +1,33 @@
+09/12/22 14:48
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+You didn't do the date part, and one of your values became your column name
+Score += 2
+
+Problem 6 (10 points):
+You didn't do it
+Score += 0
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 37/50 = 74.0%
+
+
+Comments:
+	Did you forget to push the last problem?
+
+-------------------------------------------------------------------------------
+
